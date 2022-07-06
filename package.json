@@ -1,0 +1,16 @@
+{
+  "name": "geosoft_task_7",
+  "version": "1.0.0",
+  "description": "</strong></h1>Aufgabe 7</strong></h1> <h4>Authors: Kieran Galbraith, matr.Nr.: 453493, Arne Wilberg, matr.Nr.:</h4>",
+  "scripts": {
+    "start": "node serverstart.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "jquery": "^3.6.0",
+    "mongodb": "^4.7.0",
+    "node": "^18.4.0",
+    "nodemon": "^2.0.18"
+  }
+}
